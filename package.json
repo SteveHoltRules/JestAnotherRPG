@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SteveHoltRules/JestAnotherRPG.git"
+    "url": "https://github.com/SteveHoltRules/JestAnotherRPG.git"
   },
   "keywords": [
     "jest",
