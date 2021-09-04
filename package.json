@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/SteveHoltRules/JestAnotherRPG#readme",
   "dependencies": {
+    "inquirer": "^8.1.2",
     "jest": "^27.1.0"
   }
 }
