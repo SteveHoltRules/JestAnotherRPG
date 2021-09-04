@@ -1,0 +1,31 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Create an RPG with characters, enemies, and a game object. The user will have the choice to attach or use a potion to increase on of their three stats: strength, agility, and health. The simplest of all objects needed is a Potion. The Potion object will only have a name and value.",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SteveHoltRules/JestAnotherRPG.git"
+  },
+  "keywords": [
+    "jest",
+    "node",
+    "javascript",
+    "OOP"
+  ],
+  "author": "Matt Luna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteveHoltRules/JestAnotherRPG/issues"
+  },
+  "homepage": "https://github.com/SteveHoltRules/JestAnotherRPG#readme",
+  "dependencies": {
+    "jest": "^27.1.0"
+  }
+}
